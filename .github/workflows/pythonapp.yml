@@ -26,5 +26,5 @@ jobs:
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
     - name: Test with arithmetic_operations.py
       run: |
-        pip install pytest
+        #pip install pytest
         arithmetic_operations.py
