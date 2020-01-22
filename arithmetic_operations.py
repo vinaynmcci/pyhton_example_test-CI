@@ -1,8 +1,8 @@
 #print ("Hello World!!")
 # Python Program to Perform Arithmetic Operations
 
-num1 = float(input(" Please Enter the First Value Number 1: "))
-num2 = float(input(" Please Enter the Second Value Number 2: "))
+num1 = 10
+num2 = 5
 
 # Add Two Numbers
 add = num1 + num2
