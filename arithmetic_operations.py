@@ -1,4 +1,4 @@
-#print ("Hello World!!")
+print ("Hello World!!")
 # Python Program to Perform Arithmetic Operations
 
 num1 = 10
