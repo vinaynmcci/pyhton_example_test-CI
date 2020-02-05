@@ -1,4 +1,13 @@
 print ("Hello World!!")
+print ("hello vinay")
+
+#python program to perform < and >
+n1 = 2
+n2 = 3
+#add two numbers n1 and n2
+add = n1 + n2
+print(add)
+
 # Python Program to Perform Arithmetic Operations
 
 num1 = 10
