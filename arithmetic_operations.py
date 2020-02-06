@@ -1,6 +1,15 @@
 print ("Hello World!!")
 print ("hello vinay")
 
+#python progamming for fib series
+>>> def fib(n):
+>>>     a, b = 0, 1
+>>>     while a < n:
+>>>         print(a, end=' ')
+>>>         a, b = b, a+b
+>>>     print()
+>>> fib(1000)
+
 #python program to perform < and >
 n1 = 2
 n2 = 3
