@@ -1,12 +1,12 @@
 print ("Hello World!!")
 print ("hello vinay")
 
-# python empty list
-my_list = []
-# list of integers
-my_list = [1, 2, 3]
-# list with mixed datatypes
-my_list = [1, "Hello", 3.4]
+int(2.3)
+2
+ int(-2.8)
+-2
+ float(5)
+5.0
 
 #python program to perform < and >
 n1 = 2
